@@ -1,0 +1,18 @@
+{
+     "android": {
+         "debug": {
+             "keystore": "/home/nicolai/cordova/android.keystore",
+             "storePassword": "amandita",
+             "alias": "nicolai",
+             "password" : "amandita",
+             "keystoreType": ""
+         },
+         "release": {
+             "keystore": "/home/nicolai/cordova/android.keystore",
+             "storePassword": "amandita",
+             "alias": "nicolai",
+             "password" : "amandita",
+             "keystoreType": ""
+         }
+     }
+ }

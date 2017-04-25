@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/assets"/></dataSet><dataSet config="release"><source path="/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/src/release/assets"/></dataSet></merger>

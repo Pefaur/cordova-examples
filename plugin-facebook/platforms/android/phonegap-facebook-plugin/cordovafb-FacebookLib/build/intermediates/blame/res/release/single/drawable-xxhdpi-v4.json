@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_button_like_background_selected.png",
+        "source": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/res/drawable-xxhdpi/com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_button_like_pressed.png",
+        "source": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/res/drawable-xxhdpi/com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_button_like_icon.png",
+        "source": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/res/drawable-xxhdpi/com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png",
+        "source": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_button_like_background.png",
+        "source": "/home/nicolai/cordova/plugin-facebook/platforms/android/phonegap-facebook-plugin/cordovafb-FacebookLib/res/drawable-xxhdpi/com_facebook_button_like_background.png"
+    }
+]

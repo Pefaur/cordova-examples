@@ -1,0 +1,41 @@
+<!--
+Example Plugin for Facebook in Apache Cordova
+
+Cordova: v6.5.0
+Platform: android 5.1.1 (v6-v7 no found plugin)
+Node: v4.2.6
+jQuery: v3.2.1 Slim
+Plugin: phonegap-facebook-plugin (link: https://github.com/Wizcorp/phonegap-facebook-plugin)
+
+Author Example: Nicolai Pefaur <nicolai.pefaur.com>
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=medium-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Cordova Facebook Plugin</title>
+    </head>
+    <body>
+        <div class="app">
+            <h1>Cordova Facebook Plugin</h1>
+            <button class="event listening button" id="fb-login">Login with Facebook</button>
+            <button class="event listening button" id="fb-dialog">Show Dialog with Facebook</button>
+            <button class="event listening button" id="fb-api">Test API with Facebook</button>
+            <button class="event listening button" id="fb-token">Get access token with Facebook</button>
+            <button class="event listening button" id="fb-purchase-event">Log Purchase Event</button>
+            <button class="event listening button" id="fb-event">Log Regular Event</button>
+            <button class="event listening button" id="fb-status">Get login status with Facebook</button>
+            <button class="event listening button" id="fb-logout">Logout with Facebook</button>
+        </div>
+        <!-- It's the place holder for the Facebook javascript script to attach elements to the DOM -->
+        <div id="fb-root"></div>
+        
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/jquery.slim.min.js"></script>
+        <script type="text/javascript" src="js/facebookConnectPlugin.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>
