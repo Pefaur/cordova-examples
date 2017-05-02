@@ -85,7 +85,8 @@ cordova build --release
 
 ## Example of the application in google play
 
-coming soon...
+
+* [Download Android App](https://play.google.com/store/apps/details?id=com.pefaur.cordovafb)
 
 ## Plugin repository:
 * **Wizcorp** - *Plugin Author* - [Wizcorp](https://github.com/Wizcorp/phonegap-facebook-plugin)
